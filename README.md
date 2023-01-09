@@ -1,1 +1,1 @@
-# RivJasper-Airline_Passenger_Satisfaction_Level_Predictor
+# Airline_Passenger_Satisfaction_Level_Predictor
